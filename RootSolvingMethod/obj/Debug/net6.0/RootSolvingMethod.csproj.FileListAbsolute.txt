@@ -1,0 +1,15 @@
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.AssemblyInfoInputs.cache
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.AssemblyInfo.cs
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.csproj.CoreCompileInputs.cache
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.sourcelink.json
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\bin\Debug\net6.0\RootSolvingMethod.exe
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\bin\Debug\net6.0\RootSolvingMethod.deps.json
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\bin\Debug\net6.0\RootSolvingMethod.runtimeconfig.json
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\bin\Debug\net6.0\RootSolvingMethod.dll
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\bin\Debug\net6.0\RootSolvingMethod.pdb
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.dll
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\refint\RootSolvingMethod.dll
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.pdb
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\RootSolvingMethod.genruntimeconfig.cache
+C:\Users\kettn\Documents\CS5600\FinalReport\RootSolvingMethod\RootSolvingMethod\obj\Debug\net6.0\ref\RootSolvingMethod.dll
